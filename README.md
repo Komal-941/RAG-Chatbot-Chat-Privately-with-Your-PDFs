@@ -128,7 +128,7 @@ Your **RAG Chatbot** is now live — chat with your private PDFs safely and inst
 **👩‍💻 Komal S. Shelar**  
 📍 Pune, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/komal-s-shelar/) | [GitHub](https://github.com/Komal-941)  
-📧 komalshelar941@gmail.com  
+📧 941komal@gmail.com  
 
 ---
 
