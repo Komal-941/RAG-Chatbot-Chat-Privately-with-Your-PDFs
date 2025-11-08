@@ -138,4 +138,3 @@ Your **RAG Chatbot** is now live — chat with your private PDFs safely and inst
 ---
 
 ⭐ **If you found this helpful, give it a star!**  
-Your support helps make open-source projects like this grow 🚀
