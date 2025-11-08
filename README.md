@@ -8,7 +8,7 @@ It allows you to **upload PDFs and chat securely** with your data in real-time.
 ---
 
 ## 📽️ Demo Video  
-🎥 [Watch Demo Here](<Add your demo video link here>)  
+🎥 [Watch Demo Here](https://drive.google.com/file/d/1XufYBo-QcDpRk-eItXikut4MkWEDTlDl/view?usp=drive_link)  
 
 ---
 
@@ -133,7 +133,7 @@ Your **RAG Chatbot** is now live — chat with your private PDFs safely and inst
 ---
 
 ## 🏷️ Hashtags for Discoverability  
-`#RAGChatbot` `#LangChain` `#Groq` `#Streamlit` `#AIProject` `#Python` `#GenerativeAI` `#DataPrivacy`  
+`#RAGChatbot` `#LangChain` `#Groq` `#Streamlit` `#AIProject` `#Python` `#GenerativeAI` `#DataPrivacy` `#HuggingFace` `#LLM` `#Chatbot` `#OpenSource`
 
 ---
 
